@@ -14,3 +14,7 @@ Minden karakter létrehozásakor rendelkezni fog egy névvel, kezdő HP-val és 
 * Az overloaded << operátor segítségével kiíratjuk a karakter tulajdonságait a mintában megadott módon.
 * Az **attack(Character &c)** teszi lehetővé egy másik Character objektum megtámadását. Ez egyelőre csak a sebzés alapján módosítja az ellenfél HP-ját.
 * A **parseUnit(std::string charSheetName)** teszi lehetővé az argumentumként kapott fájlokból való program futtatást.
+
+## Dokumentáció:
+https://teaching-projects.github.io/SZE-MOSZE-2020-GitCraft/
+
